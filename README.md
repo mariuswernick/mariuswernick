@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marius Wernick
 
-I'm a Microsoft technology specialist focusing on Azure, Entra ID (Azure AD), and PowerShell automation. I create tools and scripts to help administrators manage their Microsoft environments more efficiently.
+I'm a IT consultant focusing on Azure, Entra ID , and PowerShell automation. I create tools and scripts to help administrators manage their Microsoft environments more efficiently.
 
 ## 🔧 Technologies & Tools
 
