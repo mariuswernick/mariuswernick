@@ -21,8 +21,7 @@ Microsoft Defender management and configuration scripts, focusing on security an
 ### [KQL Queries](https://github.com/mariuswernick/KQL)
 Collection of powerful KQL (Kusto Query Language) queries for Microsoft Defender and Log Analytics.
 
-### [Windows Administration](https://github.com/mariuswernick/Windows)
-Windows Server and Client management scripts and tools.
+
 
 ## 🎯 Focus Areas
 
